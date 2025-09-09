@@ -1,19 +1,23 @@
-<h1 align="center">🐾 ¡Hola! Soy <img src="https://em-content.zobj.net/thumbs/120/toss-face/342/pokeball_1f5f3-fe0f.png" width="30px"/> Jeffrey</h1>
-<h3 align="center">⚡ Entrenador Frontend de Pueblo Paleta ⚡</h3>
+<p align="center">
+  <img src="https://github.com/jeff07k/jeff07k/assets/87279686/db1d5d56-7d4c-4b8c-bd8a-7d2d5b5c0b8e" width="300" alt="Digivice"/>
+</p>
+
+<h1 align="center">🌐 ¡Hola! Soy Jeffrey</h1>
+<h3 align="center">🚀 DigiDestined Frontend Developer desde India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&color=FFCB05&center=true&vCenter=true&width=500&lines=Frontend+Developer;Capturando+código+de+calidad;¡El+mejor+es+el+que+disfruta+programando!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&duration=4000&color=2471B3&center=true&vCenter=true&width=500&lines=Frontend+Developer;En+búsqueda+de+los+mejores+digicódigos;¡Digitalizando+el+mundo+web!" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RkisGk4eeF3sQ/giphy.gif" width="200" alt="Pikachu coding"/>
+  <img src="https://media.giphy.com/media/11k3oaUjSlFR4s/giphy.gif" width="300" alt="Agumon"/>
 </div>
 
-## 🎯 Mi Misión Actual
+## 🎯 Mi Misión Digital
 
-- 🔭 Actualmente estoy trabajando en [Winner Group](https://winnergroup.com/) - ¡Como un entrenador perfeccionando su equipo!
+- 🔭 Actualmente estoy trabajando en [Winner Group](https://winnergroup.com/) - ¡Como un DigiDestined mejorando el mundo digital!
 
-## 📬 ¡Conectemos!
+## 📡 ¡Conectemos!
 
 <p align="left">
   <a href="https://linkedin.com/in/tu-perfil" target="blank">
@@ -24,7 +28,7 @@
   </a>
 </p>
 
-## 🛠️ Mis Poké-Habilidades Técnicas
+## 🛠️ Mis Digi-Herramientas
 
 <div align="center">
 
@@ -42,28 +46,28 @@
 
 </div>
 
-## 📊 Mis Estadísticas de Batalla
+## 📊 Mis Estadísticas Digitales
 
 <div align="center">
   
-![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff07k&show_icons=true&theme=radical&border_color=FFCB05&bg_color=30,0d0d0d,1a1a2e&title_color=FFCB05&text_color=ffffff&icon_color=FF0000)
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff07k&show_icons=true&theme=default&border_color=2471B3&bg_color=30,0d0d0d,1a1a2e&title_color=2471B3&text_color=ffffff&icon_color=FF9C00)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff07k&layout=compact&theme=radical&border_color=FFCB05&bg_color=30,0d0d0d,1a1a2e&title_color=FFCB05&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff07k&layout=compact&theme=default&border_color=2471B3&bg_color=30,0d0d0d,1a1a2e&title_color=2471B3&text_color=ffffff)
 
 </div>
 
-## 🏆 Mis Insignias de Gimnasio
+## 🏆 Mis Crestas Digitales
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeff07k&theme=radical&border=FFCB05&background=0D0D0D&ring=FF0000&fire=FFCB05&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeff07k&theme=blueberry&border=2471B3&background=0D0D0D&ring=FF9C00&fire=FF9C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 <p align="center">
-  <i>¡El viaje para convertirse en Maestro Pokémon Programador continúa!</i> 🚀
+  <i>¡El mundo digital evoluciona constantemente y yo con él!</i> 🌐
 </p>
 
 <div align="center">
@@ -71,3 +75,7 @@
 ![Snake animation](https://github.com/jeff07k/jeff07k/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<p align="center">
+  <sub>¡Siempre listo para digievolucionar mis habilidades!</sub>
+</p>
