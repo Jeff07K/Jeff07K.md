@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeff07k/jeff07k/main/digivice.png" width="300" alt="Digivice"/>
-</p>
+<div align="center">
+  <img src="https://www.svgimages.com/svg-image/s6/kamen-rider-logo-256x256.png" width="300" alt="bite"/>
+</div>
 
 <h1 align="center">🌐 ¡Hola! Soy Jeffrey</h1>
 <h3 align="center">🚀 DigiDestined Frontend Developer desde India 🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&duration=4000&color=2471B3&center=true&vCenter=true&width=500&lines=Frontend+Developer;En+búsqueda+de+los+mejores+digicódigos;¡Digitalizando+el+mundo+web!" alt="Typing SVG" />
-</p>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/17/df/01/17df01ace6a14d6b505480dab5860a86.png" width="300" alt="Agumon"/>
