@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeff07k/jeff07k/assets/87279686/db1d5d56-7d4c-4b8c-bd8a-7d2d5b5c0b8e" width="300" alt="Digivice"/>
+  <img src="https://raw.githubusercontent.com/jeff07k/jeff07k/main/digivice.png" width="300" alt="Digivice"/>
 </p>
 
 <h1 align="center">🌐 ¡Hola! Soy Jeffrey</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/11k3oaUjSlFR4s/giphy.gif" width="300" alt="Agumon"/>
+  <img src="https://i.pinimg.com/originals/17/df/01/17df01ace6a14d6b505480dab5860a86.png" width="300" alt="Agumon"/>
 </div>
 
 ## 🎯 Mi Misión Digital
