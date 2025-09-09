@@ -66,12 +66,6 @@
   <i>¡El mundo digital evoluciona constantemente y yo con él!</i> 🌐
 </p>
 
-<div align="center">
-  
-![Snake animation](https://github.com/jeff07k/jeff07k/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <p align="center">
   <sub>¡Siempre listo para digievolucionar mis habilidades!</sub>
 </p>
