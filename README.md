@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.svgimages.com/svg-image/s6/kamen-rider-logo-256x256.png" width="300" alt="bite"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/66dfe1120105605.60abafad17157.png"/>
 </div>
 
 <h1 align="center">🌐 ¡Hola! Soy Jeffrey</h1>
