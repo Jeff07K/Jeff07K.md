@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">🌐 ¡Hola! Soy Jeffrey</h1>
-<h3 align="center">🚀 DigiDestined Frontend Developer desde India 🚀</h3>
+<h3 align="center">🚀 DigiDestined Frontend Developer desde BOGOTA🚀</h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/17/df/01/17df01ace6a14d6b505480dab5860a86.png" width="300" alt="Agumon"/>
