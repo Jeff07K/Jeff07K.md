@@ -52,16 +52,6 @@
 
 </div>
 
-## 🏆 Mis Crestas Digitales
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeff07k&theme=blueberry&border=2471B3&background=0D0D0D&ring=FF9C00&fire=FF9C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <p align="center">
   <i>¡El mundo digital evoluciona constantemente y yo con él!</i> 🌐
 </p>
