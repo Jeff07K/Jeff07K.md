@@ -11,7 +11,7 @@
 
 ## 🎯 Mi Misión Digital
 
-- 🔭 Actualmente estoy trabajando en [Winner Group](https://winnergroup.com/) - ¡Como un DigiDestined mejorando el mundo digital!
+- 🔭 Actualmente estoy trabajando en [Winner Group](https://winnergroup.com/) - ¡Como un Dealer!
 
 ## 📡 ¡Conectemos!
 
